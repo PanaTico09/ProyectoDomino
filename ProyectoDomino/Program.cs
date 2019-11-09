@@ -21,7 +21,7 @@ namespace ProyectoDomino
             };
 
             //test
-
+          
             domino.IniciarJuego();
 
             Queue<Jugador> jugadores = domino.ObtenerOrdenJugadores();
