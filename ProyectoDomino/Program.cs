@@ -19,7 +19,9 @@ namespace ProyectoDomino
                 ModalidadJuego = (ModalidadJuego)MenuPrincipal(),
                 Jugadores = NombrarJugadores(SolicitarNumeroJugadores())
             };
-            //Test
+
+            //test
+          
             domino.IniciarJuego();
 
             Queue<Jugador> jugadores = domino.ObtenerOrdenJugadores();
