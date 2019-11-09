@@ -20,8 +20,6 @@ namespace ProyectoDomino
                 Jugadores = NombrarJugadores(SolicitarNumeroJugadores())
             };
 
-            //test
-
             domino.IniciarJuego();
 
             Queue<Jugador> jugadores = domino.ObtenerOrdenJugadores();
