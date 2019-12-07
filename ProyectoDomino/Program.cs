@@ -14,12 +14,16 @@ namespace ProyectoDomino
         static void Main(string[] args)
         {
             bool ganaSinFichas = false;
-            domino = new Domino()
-            {
-                ModalidadJuego = (ModalidadJuego)MenuPrincipal(),
-                Jugadores = NombrarJugadores(SolicitarNumeroJugadores())
-            };
+            domino = new Domino();
+
+            domino.ModalidadJuego = (ModalidadJuego)MenuPrincipal();
+            if (domino.ModalidadJuego == ModalidadJuego.Salir)
+                return;
+            domino.Jugadores = NombrarJugadores(SolicitarNumeroJugadores());
+            
+
             //Test
+            
             domino.IniciarJuego();
 
             Queue<Jugador> jugadores = domino.ObtenerOrdenJugadores();
@@ -42,6 +46,7 @@ namespace ProyectoDomino
                             {
                                 domino.Tablero.AddFirst(jugadores.Peek().FichasDisponibles[opcion - 1]);
                             }
+                            //Validacion para solicitar lado al jugador
                             else if ((jugadores.Peek().FichasDisponibles[opcion - 1].primerNumero == domino.Tablero.First.Value.primerNumero
                               || jugadores.Peek().FichasDisponibles[opcion - 1].segundoNumero == domino.Tablero.First.Value.primerNumero)
                               && (jugadores.Peek().FichasDisponibles[opcion - 1].primerNumero == domino.Tablero.Last.Value.segundoNumero
@@ -137,6 +142,7 @@ namespace ProyectoDomino
                 }
             }
 
+            //Remueve al ganador de la lista para sumar los puntajes
             while (true) {
                 if (jugadores.Peek() == ganador)
                 {
@@ -258,7 +264,7 @@ namespace ProyectoDomino
         }
 
         /// <summary>
-        /// Encargado de interactuar con el usuaria para solicitar el nombre de los jugadores
+        /// Encargado de interactuar con el usuario para solicitar el nombre de los jugadores
         /// y posteriormente crear una lista con los jugadores nombrados
         /// </summary>
         /// <param name="numeroJugadores">El número de jugadores que se nombrarán</param>

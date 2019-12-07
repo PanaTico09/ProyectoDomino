@@ -10,6 +10,7 @@ namespace ProyectoDomino
     {
         Clasico = 1,
         Moderno = 2,
-        Modalidad5 = 3
+        Modalidad5 = 3,
+        Salir = 4
     }
 }

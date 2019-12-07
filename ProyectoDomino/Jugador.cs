@@ -49,6 +49,7 @@ namespace ProyectoDomino
                     {
                         mayor = ficha;
                     }
+             //Si el puntaje es igual, devuelve el mayor numero
                     else{
                         if (ficha.ObtenerMayorNumero() > mayor.ObtenerMayorNumero()) {
                             mayor = ficha;

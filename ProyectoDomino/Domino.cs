@@ -126,6 +126,7 @@ namespace ProyectoDomino
             
         }
 
+        //Muestra el tablero
         public override string ToString()
         {
             string texto = "Tablero:\n";
@@ -137,6 +138,8 @@ namespace ProyectoDomino
             return texto;
         }
 
+
+        //Muestra la cantidad de numeros jugados
         public string ObtenerEstadisticas()
         {
             string texto = "Estadisticas de las fichas del tablero(Numero de ficha|cantidad de fichas): \n";
