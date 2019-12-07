@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\Universidad\Topicos Avanzados\ProyectoDomino-master\PruebasUnitarias\obj\Debug\PruebasUnitarias.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Universidad\Topicos Avanzados\ProyectoDomino-master\PruebasUnitarias\obj\Debug\PruebasUnitarias.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Universidad\Topicos Avanzados\ProyectoDomino-master\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Usuario\Documents\Universidad\Topicos Avanzados\ProyectoDomino-master\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Usuario\Documents\Universidad\Topicos Avanzados\ProyectoDomino-master\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Usuario\Documents\Universidad\Topicos Avanzados\ProyectoDomino-master\PruebasUnitarias\bin\Debug\PruebasUnitarias.dll
+C:\Users\Usuario\Documents\Universidad\Topicos Avanzados\ProyectoDomino-master\PruebasUnitarias\bin\Debug\PruebasUnitarias.pdb
+C:\Users\Usuario\Documents\Universidad\Topicos Avanzados\ProyectoDomino-master\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Usuario\Documents\Universidad\Topicos Avanzados\ProyectoDomino-master\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Usuario\Documents\Universidad\Topicos Avanzados\ProyectoDomino-master\PruebasUnitarias\bin\Debug\ProyectoDomino.exe
+C:\Users\Usuario\Documents\Universidad\Topicos Avanzados\ProyectoDomino-master\PruebasUnitarias\bin\Debug\ProyectoDomino.pdb
+C:\Users\Usuario\Documents\Universidad\Topicos Avanzados\ProyectoDomino-master\PruebasUnitarias\bin\Debug\ProyectoDomino.exe.config
+C:\Users\Usuario\Documents\Universidad\Topicos Avanzados\ProyectoDomino-master\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Usuario\Documents\Universidad\Topicos Avanzados\ProyectoDomino-master\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Usuario\Documents\Universidad\Topicos Avanzados\ProyectoDomino-master\PruebasUnitarias\obj\Debug\PruebasUnitarias.csproj.CopyComplete
+C:\Users\Usuario\Documents\Universidad\Topicos Avanzados\ProyectoDomino-master\PruebasUnitarias\obj\Debug\PruebasUnitarias.dll
+C:\Users\Usuario\Documents\Universidad\Topicos Avanzados\ProyectoDomino-master\PruebasUnitarias\obj\Debug\PruebasUnitarias.pdb
